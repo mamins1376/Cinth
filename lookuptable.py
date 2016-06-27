@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Make lookup table for Cinth and make life easier.
+
+
 r = 86207 # sample rate
 
 def calc_phases(length=pow(2,16), show_error=False):
